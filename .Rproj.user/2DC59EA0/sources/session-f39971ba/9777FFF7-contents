@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="social-icons">
   {% if site.author.googlescholar %}
-    <a href="{{ site.author.googlescholar }}" target="_blank">
+    <"{{ site.author.googlescholar }}" target="_blank">
       <img src="/assets/icons/google-scholar-icon.png" alt="Google Scholar">
     </a>
   {% endif %}
@@ -21,7 +21,7 @@ redirect_from:
     </a>
   {% endif %}
   {% if site.author.twitter %}
-    <a href="<a href="https://twitter.com/{{" class="underline" target="_blank">Click this URL</a> site.author.twitter }}" target="_blank">
+    <a href="<"https://twitter.com/{{" class="underline" target="_blank">Click this URL</a> site.author.twitter }}" target="_blank">
       <img src="/assets/icons/twitter-icon.png" alt="Twitter">
     </a>
   {% endif %}
@@ -48,4 +48,4 @@ I'm also fascinated by the human brain, and how it can change after behavioral t
 - [ORCID]({{ site.author.orcid }})
 
 ## Social Media
-- [Twitter]<a href="https://twitter.com/{{" class="underline" target="_blank">Click this URL</a> site.author.twitter }})
+- [Twitter]<"https://twitter.com/{{" class="underline" target="_blank">Click this URL</a> site.author.twitter }})

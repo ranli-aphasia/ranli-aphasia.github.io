@@ -7,4 +7,5 @@ date: 2024-08-28
 venue: 'American Journal of Speech-Language Pathology'
 paperurl: 'http://ranli-aphasia.github.io/files/pub1.pdf'
 citation: 'Sung, J.E., Scimeca, M., <b>Li, R.</b>, & Kiran, S. (2024). Cross-Linguistic and Multicultural Considerations in Evaluating Bilingual Adults With Aphasia. <i>American Journal of Speech-Language Pathology</i>. 1-16.'
+order: 1
 ---

@@ -29,12 +29,14 @@ author:
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "ranli92@hkbu.edu.hk"
-  cv               : "http://ranli-aphasia.github.io/files/cv.pdf"
+  cv               : "<a href="http://ranli-aphasia.github.io/files/cv.pdf"" class="underline" target="_blank">Click this URL</a>
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=4cpXWccAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0002-5034-7294"
-
+  googlescholar    : "<a href="https://scholar.google.com/citations?user=4cpXWccAAAAJ&hl=en"" class="underline" target="_blank">Click this URL</a>
+  orcid            : "<a href="https://orcid.org/0000-0002-5034-7294"" class="underline" target="_blank">Click this URL</a>
+  
+  # Social media
+  twitter          : "ran_li92"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

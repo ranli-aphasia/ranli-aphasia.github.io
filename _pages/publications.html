@@ -6,6 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Collect all publications and sort by custom order -->
+{% assign sorted_publications = site.publications | sort: 'order' %}
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}

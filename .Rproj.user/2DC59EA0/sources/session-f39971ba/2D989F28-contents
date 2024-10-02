@@ -21,7 +21,7 @@ repository               : "ranli-aphasia/ranli-aphasia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "http://ranli-aphasia.github.io/images/prof.jpeg"
   name             : "Ran Li"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"

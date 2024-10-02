@@ -6,9 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Collect all publications and sort by custom order -->
-{% assign sorted_publications = site.publications | sort: 'paperurl' %}
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
@@ -21,24 +18,12 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      
-      <div class="citation" style="margin-bottom: 20px;">
-        <p>{{ forloop.index }}. {{ post.citation }}</p>
-        {% if post.paperurl %}
-          <p><a href="{{ post.paperurl }}">Download Paper</a></p>
-        {% endif %}
-      </div>
+      {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-  
-    <div class="citation" style="margin-bottom: 20px;">
-      <p>{{ forloop.index }}. {{ post.citation }}</p>
-      {% if post.paperurl %}
-        <p><a href="{{ post.paperurl }}">Download Paper</a></p>
-      {% endif %}
-    </div>
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
 

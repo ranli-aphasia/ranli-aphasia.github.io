@@ -28,7 +28,8 @@ author:
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "ranli92@hkbu.edu.hk" 
+  email            : "ranli92@hkbu.edu.hk"
+  cv               : "http://ranli-aphasia.github.io/files/cv.pdf"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=4cpXWccAAAAJ&hl=en"
@@ -40,12 +41,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  chapters:
+    title: 'Book Chapters'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

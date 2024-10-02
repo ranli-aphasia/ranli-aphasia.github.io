@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/ranli-aphasia.github.io/_data/navigation.yml",
     "project_path": "_data/navigation.yml",
     "type": "yaml",
-    "hash": "373855987",
+    "hash": "1591684241",
     "contents": "",
     "dirty": false,
     "created": 1727827077001.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,19",
-        "scrollLine": "7"
+        "cursorPosition": "14,23",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1727827111,
+    "lastKnownWriteTime": 1727835410,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1727827111943,
+    "last_content_update": 1727835410110,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+  # Social media
+  twitter          : "ran_li92"
+
 I'm an Assistant Professor in the [Academy of Language Culture](https://eng.hkbu.edu.hk/academic-staff/dr-li-ran/) (previously Department of English Language and Literature) at Hong Kong Baptist University. Previously, I was a Postdoctoral Fellow in the [Speech, Language and Reading Lab](https://slrlab.edu.hku.hk/) at The University of Hong Kong. I obtained my PhD from the Department of Speech, Language, and Hearing Sciences at Boston University, where I worked with [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/). I got my BA in Linguistics and MA in Speech-Language Pathology at University of Maryland.
 
 Research

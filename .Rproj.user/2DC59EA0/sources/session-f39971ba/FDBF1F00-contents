@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -22,7 +21,6 @@ author_profile: true
       
       <div class="citation" style="margin-bottom: 20px;">
         <p>{{ forloop.index }}. {{ post.citation }}</p>
-        <p>Published in {{ post.venue }}, {{ post.date | date: "%Y" }}</p>
         {% if post.paperurl %}
           <p><a href="{{ post.paperurl }}">Download Paper</a></p>
         {% endif %}
@@ -34,7 +32,6 @@ author_profile: true
   
     <div class="citation" style="margin-bottom: 20px;">
       <p>{{ forloop.index }}. {{ post.citation }}</p>
-      <p>Published in {{ post.venue }}, {{ post.date | date: "%Y" }}</p>
       {% if post.paperurl %}
         <p><a href="{{ post.paperurl }}">Download Paper</a></p>
       {% endif %}

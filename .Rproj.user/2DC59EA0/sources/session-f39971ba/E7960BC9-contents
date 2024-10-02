@@ -46,17 +46,6 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        
-        <div class="publication-list">
-          {% assign citations = site.publications %}
-          {% for publication in citations %}
-            <div class="citation" style="margin-bottom: 20px;">
-              <p>{{ forloop.index }}. {{ publication.citation }}</p>
-              <p>Published in {{ publication.venue }}, {{ publication.date | date: "%Y" }}</p>
-              <p><a href="{{ publication.paperurl }}">Download Paper</a></p>
-            </div>
-          {% endfor %}
-        </div>
 
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>

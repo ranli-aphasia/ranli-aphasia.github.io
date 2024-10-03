@@ -179,7 +179,6 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    order: "order"
     permalink: /:collection/:path/
   portfolio:
     output: true

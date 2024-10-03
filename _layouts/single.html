@@ -48,10 +48,6 @@ layout: default
         {{ content }}
         
   {% assign papers = site.publications %}
-  {% if papers %}
-    {% assign sorted_papers = site.papers | sort: 'order' %}
-    {% if sorted_papers %}
-      {% for paper in sorted_papers %}
         {% if page.citation %}
           <p style="font-size: smaller">{{ page.citation | escape}}</p>
         {% endif %}
@@ -65,10 +61,6 @@ layout: default
         {% if page.link %}
           <div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
         {% endif %}
-      {% endfor %}
-    {% else %}
-      <p>No papers found.</p>
-    {% endif %}
       </section>
 
       <footer class="page__meta">

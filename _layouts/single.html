@@ -17,7 +17,7 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <article class="page" itemscope itemtype="<a href="http://schema.org/CreativeWork">" class="underline" target="_blank">Click this URL</a>
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
@@ -49,15 +49,11 @@ layout: default
 
         {% if page.citation %}
           <p style="font-size: smaller">{{ page.citation }}</p>
-          {% if page.paperurl %}
-            <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a></p>
-          {% endif %}
-          {% if page.slidesurl %}
-            <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
-          {% endif %}
-        {% elsif page.paperurl %}
+        {% endif %}
+        {% if page.paperurl %}
           <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a></p>
-        {% elsif page.slidesurl %}
+        {% endif %}
+        {% if page.slidesurl %}
           <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% endif %}
 

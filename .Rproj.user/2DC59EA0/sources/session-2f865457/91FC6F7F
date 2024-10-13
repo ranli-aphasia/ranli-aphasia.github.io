@@ -3,16 +3,16 @@
     "path": "~/Documents/GitHub/ranli-aphasia.github.io/_includes/archive-single-talk.html",
     "project_path": "_includes/archive-single-talk.html",
     "type": "html",
-    "hash": "3047263243",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1728662498744.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,85",
+        "cursorPosition": "15,86",
         "scrollLine": "14"
     },
     "folds": "",
@@ -20,7 +20,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1728794224366,
+    "last_content_update": 1728794378564,
     "read_only": false,
     "read_only_alternatives": []
 }

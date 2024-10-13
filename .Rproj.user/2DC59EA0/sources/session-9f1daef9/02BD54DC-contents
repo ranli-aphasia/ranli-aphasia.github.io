@@ -50,6 +50,38 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+      
+      <!-- Symposium Talks Section -->
+      <section>
+        <h2>Symposium Talks</h2>
+        <div class="symposium-talks">
+          {% assign symposium_talks = site.posts | where: "category", "symposium" %}
+          {% for post in symposium_talks %}
+            <div class="talk-item">
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.date | date: '%B %Y' }}</p>
+              <p>{{ post.venue }}, {{ post.location }}</p>
+              <p>{{ post.excerpt }}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </section>
+      
+        <!-- Posters Section -->
+      <section>
+        <h2>Posters</h2>
+        <div class="posters">
+          {% assign posters = site.posts | where: "category", "poster" %}
+          {% for post in posters %}
+            <div class="poster-item">
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.date | date: '%B %Y' }}</p>
+              <p>{{ post.venue }}, {{ post.location }}</p>
+              <p>{{ post.excerpt }}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}

@@ -13,8 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="<a href="http://schema.org/CreativeWork">" class="underline" target="_blank">Click this URL</a>
-    <a href="<a href="https://ranli-aphasia.github.io/talks/"" class="underline" target="_blank">Click this URL</a> class="underline" target="_blank">Click this URL</a>
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork"> class="underline" target="_blank">Click this URL</a>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=

@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/ranli-aphasia.github.io/_pages/cv.md",
     "project_path": "_pages/cv.md",
     "type": "markdown",
-    "hash": "716843197",
+    "hash": "302530562",
     "contents": "",
     "dirty": false,
     "created": 1733392267254.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,15",
-        "scrollLine": "0"
+        "cursorPosition": "14,5",
+        "scrollLine": "2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1733406248,
+    "lastKnownWriteTime": 1733406479,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1733406248723,
+    "last_content_update": 1733406479133,
     "read_only": false,
     "read_only_alternatives": []
 }

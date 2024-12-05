@@ -11,8 +11,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Speech, Language, and Hearing Sciences, Boston University, 2022
-* M.S. in Speech-Language Pathology, University of Maryland, 2017
-* B.S. in Linguistics, Hearing & Speech Sciences (dual degree), University of Maryland, 2015
+* M.A. in Speech-Language Pathology, University of Maryland, 2017
+* B.A. in Linguistics, Hearing & Speech Sciences (dual degree), University of Maryland, 2015
 
 Work experience
 ======

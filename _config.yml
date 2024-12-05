@@ -29,7 +29,7 @@ author:
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "ranli92@hkbu.edu.hk"
-  cv               : "http://ranli-aphasia.github.io/files/cv.pdf"
+  cv               : "/cv/"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=4cpXWccAAAAJ&hl=en"

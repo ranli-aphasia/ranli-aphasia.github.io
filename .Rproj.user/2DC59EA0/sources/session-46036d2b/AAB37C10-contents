@@ -11,7 +11,7 @@ I'm an Assistant Professor in the [Department of English Language and Literature
 
 Ongoing Research
 ======
-1. <b>Treatment effect of Verb Network Strengthening Treatment on Chinese-speaking individuals with aphasia</b>. We use fMRI to examine structural and functional changes following [VNeST](https://www.tandfonline.com/doi/abs/10.1080/09602011.2020.1773278).
+1. <b> Effect of Verb Network Strengthening Treatment on Chinese-speaking individuals with aphasia</b>. We use fMRI to examine structural and functional changes following [VNeST](https://www.tandfonline.com/doi/abs/10.1080/09602011.2020.1773278).
 
 2. <b>Cross-linguistic comparisons of language recovery in individuals with aphasia</b>. This work compares patterns of language recovery in terms of naming and morphosyntactic processing across aphasic patients speaking English, Korean, Spanish, Chinese, and other languages. This work is led by [Prof. Jee Eun Sung](https://www.nablesung.com/) at Ewha Womans University.
 

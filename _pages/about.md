@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an Assistant Professor in the [Department of English Language and Literature](https://eng.hkbu.edu.hk/academic-staff/dr-li-ran/) at Hong Kong Baptist University. Previously, I was a Postdoctoral Fellow in the [Speech, Language and Reading Lab](https://slrlab.edu.hku.hk/) at The University of Hong Kong. I obtained my PhD from the Department of Speech, Language, and Hearing Sciences at Boston University, where I worked with [Swathi Kiran](https://www.bu.edu/sargent/profile/swathi-kiran-ph-d-ccc-slp/). I got my BA in Linguistics and MA in Speech-Language Pathology at University of Maryland.
 
-Ongoing Research
+Research
 ======
 1. <b> Effect of Verb Network Strengthening Treatment on Chinese-speaking individuals with aphasia</b>. We use fMRI to examine structural and functional changes following [VNeST](https://www.tandfonline.com/doi/abs/10.1080/09602011.2020.1773278).
 

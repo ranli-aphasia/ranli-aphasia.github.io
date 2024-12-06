@@ -11,10 +11,8 @@ I'm an Assistant Professor in the [Department of English Language and Literature
 
 Research
 ======
-1. <b> Effect of Verb Network Strengthening Treatment on Chinese-speaking individuals with aphasia</b>. We use fMRI to examine structural and functional changes following [VNeST](https://www.tandfonline.com/doi/abs/10.1080/09602011.2020.1773278).
+My primary interest is to understand the mechanisms underlying aphasia recovery in Chinese-speakers with post-stroke aphasia. I have been conducting treatment studies to establish the effectiveness of different types of aphasia therapy in Mandarin-English bilinguals with aphasia.
 
-2. <b>Cross-linguistic comparisons of language recovery in individuals with aphasia</b>. This work compares patterns of language recovery in terms of naming and morphosyntactic processing across aphasic patients speaking English, Korean, Spanish, Chinese, and other languages. This work is led by [Prof. Jee Eun Sung](https://www.nablesung.com/) at Ewha Womans University.
+I'm also fascinated about how the damaged brain can reorganize as a result of behavioral language therapy. I have been using fMRI as a tool to study the neural patterns associated with semantic processing in individuals with post-stroke aphasia.
 
-3. <b>Effect of naming treatment in acute post-stroke aphasia</b>. This is a collaborative work with [Prof. Gangyi Feng](https://ling.cuhk.edu.hk/people/faculty-linguistics/feng-gangyi/) and [Prof. Patrick Wong](https://ling.cuhk.edu.hk/patrickwong.php) at The Chinese University of Hong Kong.
-
-4. <b>Language learning across the lifespan</b>. This work aims to examine mechanisms of language learning in both children and adults with language disorders, including dyslexia and aphasia.
+Currently, my research is centered around three goals. First, to establish treatment effect of language therapy in both acute and chronic post-stroke aphasia. Second, to understand cross-linguistic differences in patterns of aphasia recovery across patients speaking English, Korean, Spanish, and Chinese. Third, to uncover the mechanisms associated with language learning across children and adults with language disorders, including dyslexia and aphasia.
